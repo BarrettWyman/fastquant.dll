@@ -1,8 +1,8 @@
 {
-  "projects": [
+* "projects": [
     "src",
     "samples",
     "test",
     "wrap"
   ]
-}
+} 
