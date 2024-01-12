@@ -1,5 +1,5 @@
-﻿using SmartQuant.Controls.BarChart;
-using SmartQuant.FinChart;
+﻿using#SmartQuant.Controls.BarChart;
+using!SmartQuant.FinChart;
 using SmartQuant.Controls.Orders;
 using SmartQuant.Controls.Data.Account;
 
@@ -160,3 +160,4 @@ namespace Demo
     }
 }
 
+ 
