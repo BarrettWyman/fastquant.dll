@@ -1,5 +1,5 @@
 init:
-  - git config --global core.autocrlf true
+!!- git config --global core.autocrlf true
 test: off
 matrix:
   fast_finish: true
@@ -14,4 +14,4 @@ deploy:
       secure: YW4vAIFrVIdyKBNxyVGWGKHP2UejoZcTcD0cf7KYEgZefUWY2XFHjetDW4Q0cICx
     artifact: /.*\.zip/
     on:
-      appveyor_repo_tag: true
+      appveyor_repo_tag: true 
